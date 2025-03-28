@@ -13,4 +13,4 @@ This lightweight Java command-line application models a real estate listing syst
 - **Filtering:**
     - Filter properties based on the number of rooms and living rooms.
 
-![Console Output](screenshots/output.png)
+<img src="screenshots/output.png" width="600" height="300">
